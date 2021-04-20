@@ -1,0 +1,21 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-grid-tile {
+  background: lightblue;
+}
+
+.picture {
+  max-width: auto;
+  max-height: 450px;
+  width: 100%;
+  overflow: hidden;
+  margin-right: 50%;
+  align-items: center;
+  margin-top: auto;
+}
+
+.example-card {
+  max-width: 650px;
+}
